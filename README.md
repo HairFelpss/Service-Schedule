@@ -1,7 +1,7 @@
 # Service-Schedule
 
-#  first of all use the command git flow init and press ok to all
-#  after that use the command yarn install
+#  first of all use the command yarn install
+#  after that use the command git flow init and press ok to all
 #  to run the project use:  
     
     yarn-dev
