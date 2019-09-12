@@ -1,0 +1,14 @@
+{
+  "name": "site-do-gabriel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.2"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  }
+}
